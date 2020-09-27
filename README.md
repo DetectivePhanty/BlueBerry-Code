@@ -1,3 +1,1 @@
-# BlueBerry-Code
-BlueBerry Bot Code
-![https://kapwi.ng/c/FIe6lJ3a]
+  ![BlueBerry](https://i.imgur.com/ph45HpJ.jpg "Hello, I am BlueBerry, a discord bot made by Phantom*#5504 and Kurasad#2521, Blueberry is a multipurpose bot, A bot for anime related GIFs with some simple moderation such as ban and purge, but also has commands for user interactions like a topic command to give a statement for the user to think about.. If you liked Jonin, vote or donate!")   
